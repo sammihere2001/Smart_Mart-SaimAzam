@@ -1,0 +1,6 @@
+1b888f60,cashier1,2025-05-28 20:10:48,44.75,[{'product_id': '1008'
+b4da817e,cashier1,2025-05-28 20:15:17,54.75,[{'product_id': '1006'
+4886e3bc,cashier1,2025-05-28 20:22:02,73.99,[{'product_id': '1003'
+a9dd75f4,cashier1,2025-05-28 20:27:19,859.49,[{'product_id': '1002'
+91c8d321,cashier1,2025-05-28 20:37:38,49.00,[{'product_id': '1006'
+bd0975d8,cashier1,2025-05-28 21:50:36,68.74,[{'product_id': '1007', 'name': 'Detergent', 'category': 'Household', 'price': 12.99, 'quantity': 1, 'total': 12.99}, {'product_id': '1006', 'name': 'Jeans', 'category': 'Clothing', 'price': 45.5, 'quantity': 1, 'total': 45.5}, {'product_id': '1010', 'name': 'Bottled Water', 'category': 'Beverages', 'price': 1.0, 'quantity': 1, 'total': 1.0}, {'product_id': '1009', 'name': 'Soft Drink', 'category': 'Beverages', 'price': 2.5, 'quantity': 1, 'total': 2.5}, {'product_id': '1004', 'name': 'Sugar (2kg)', 'category': 'Groceries', 'price': 6.75, 'quantity': 1, 'total': 6.75}]

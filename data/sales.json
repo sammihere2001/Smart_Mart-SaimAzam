@@ -1,0 +1,154 @@
+[
+  {
+    "date": "2025-05-28T20:22:02.715926",
+    "bill_id": "4886e3bc",
+    "cashier": "cashier1",
+    "items": [
+      {
+        "product_id": "1003",
+        "name": "Rice (5kg)",
+        "category": "Groceries",
+        "price": 15.5,
+        "quantity": 1,
+        "total": 15.5
+      },
+      {
+        "product_id": "1007",
+        "name": "Detergent",
+        "category": "Household",
+        "price": 12.99,
+        "quantity": 1,
+        "total": 12.99
+      },
+      {
+        "product_id": "1006",
+        "name": "Jeans",
+        "category": "Clothing",
+        "price": 45.5,
+        "quantity": 1,
+        "total": 45.5
+      }
+    ],
+    "total": 73.99000000000001
+  },
+  {
+    "date": "2025-05-28T20:27:19.306436",
+    "bill_id": "a9dd75f4",
+    "cashier": "cashier1",
+    "items": [
+      {
+        "product_id": "1002",
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 800.0,
+        "quantity": 1,
+        "total": 800.0
+      },
+      {
+        "product_id": "1010",
+        "name": "Bottled Water",
+        "category": "Beverages",
+        "price": 1.0,
+        "quantity": 1,
+        "total": 1.0
+      },
+      {
+        "product_id": "1007",
+        "name": "Detergent",
+        "category": "Household",
+        "price": 12.99,
+        "quantity": 1,
+        "total": 12.99
+      },
+      {
+        "product_id": "1006",
+        "name": "Jeans",
+        "category": "Clothing",
+        "price": 45.5,
+        "quantity": 1,
+        "total": 45.5
+      }
+    ],
+    "total": 859.49
+  },
+  {
+    "date": "2025-05-28T20:37:38.058272",
+    "bill_id": "91c8d321",
+    "cashier": "cashier1",
+    "items": [
+      {
+        "product_id": "1006",
+        "name": "Jeans",
+        "category": "Clothing",
+        "price": 45.5,
+        "quantity": 1,
+        "total": 45.5
+      },
+      {
+        "product_id": "1010",
+        "name": "Bottled Water",
+        "category": "Beverages",
+        "price": 1.0,
+        "quantity": 1,
+        "total": 1.0
+      },
+      {
+        "product_id": "1009",
+        "name": "Soft Drink",
+        "category": "Beverages",
+        "price": 2.5,
+        "quantity": 1,
+        "total": 2.5
+      }
+    ],
+    "total": 49.0
+  },
+  {
+    "date": "2025-05-28T21:50:36.182194",
+    "bill_id": "bd0975d8",
+    "cashier": "cashier1",
+    "items": [
+      {
+        "product_id": "1007",
+        "name": "Detergent",
+        "category": "Household",
+        "price": 12.99,
+        "quantity": 1,
+        "total": 12.99
+      },
+      {
+        "product_id": "1006",
+        "name": "Jeans",
+        "category": "Clothing",
+        "price": 45.5,
+        "quantity": 1,
+        "total": 45.5
+      },
+      {
+        "product_id": "1010",
+        "name": "Bottled Water",
+        "category": "Beverages",
+        "price": 1.0,
+        "quantity": 1,
+        "total": 1.0
+      },
+      {
+        "product_id": "1009",
+        "name": "Soft Drink",
+        "category": "Beverages",
+        "price": 2.5,
+        "quantity": 1,
+        "total": 2.5
+      },
+      {
+        "product_id": "1004",
+        "name": "Sugar (2kg)",
+        "category": "Groceries",
+        "price": 6.75,
+        "quantity": 1,
+        "total": 6.75
+      }
+    ],
+    "total": 68.74000000000001
+  }
+]

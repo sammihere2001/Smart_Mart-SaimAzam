@@ -1,0 +1,10 @@
+1001,Electronics,Laptop,1200.00
+1002,Electronics,Smartphone,800.00
+1003,Groceries,Rice (5kg),15.50
+1004,Groceries,Sugar (2kg),6.75
+1005,Clothing,T-Shirt,25.00
+1006,Clothing,Jeans,45.50
+1007,Household,Detergent,12.99
+1008,Household,Dish Soap,4.25
+1009,Beverages,Soft Drink,2.50
+1010,Beverages,Bottled Water,1.00 

@@ -1,0 +1,3 @@
+cashier1,password123
+cashier2,securepass456
+cashier3,cashier789 
